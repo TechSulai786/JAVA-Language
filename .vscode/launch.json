@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Filehandling",
+            "request": "launch",
+            "mainClass": "Filehandling",
+            "projectName": "File Handling"
+        },
+        {
+            "type": "java",
+            "name": "Launch acess",
+            "request": "launch",
+            "mainClass": "acess",
+            "projectName": "Access outer form inner"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Interface"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dowhileloops",
+            "request": "launch",
+            "mainClass": "Dowhileloops",
+            "projectName": "JAVA Language_80921b7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaBooleans",
+            "request": "launch",
+            "mainClass": "JavaBooleans",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "JAVA Language_80921b7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanExpression",
+            "request": "launch",
+            "mainClass": "BooleanExpression",
+            "projectName": "JAVA Language_80921b7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "SRTINGS"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "helloworld"
+        }
+    ]
+}
